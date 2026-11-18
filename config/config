@@ -21,7 +21,7 @@ gki-android12-5.10=
 gki-android13-5.10=
 gki-android13-5.15=41da83f3b1721c1a44d05212093d0934441f975c
 gki-android14-5.15=41da83f3b1721c1a44d05212093d0934441f975c
-gki-android14-6.1=
+gki-android14-6.1=41da83f3b1721c1a44d05212093d0934441f975c
 gki-android15-6.6=
 gki-android16-6.12=
 # gki-android17-6.18：上游暂无该 SUSFS 分支，android17-6.18 固定禁用 SUSFS
